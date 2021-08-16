@@ -1,0 +1,18 @@
+{
+  "name": "gulp-webp-html-classes",
+  "version": "1.0.0",
+  "description": "replace <img/> to <picture/> supports webp + classes",
+  "scripts": {
+    "test": "command for testing package"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SZhukovWork/gulp-webp-html-classes.git"
+  },
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SZhukovWork/gulp-webp-html-classes/issues"
+  },
+  "homepage": "https://github.com/SZhukovWork/gulp-webp-html-classes#readme"
+}
