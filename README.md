@@ -25,3 +25,4 @@ gulp.task('html',function(){
         .pipe(gulp.dest('./public/'))
 });
 ```
+"# gulp-webp-html-classes" 
